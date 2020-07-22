@@ -1,6 +1,6 @@
 # Hey, Devesh here 👋
 
-![About Me](Intro.jpg)
+![About Me](/Intro.jpg)
 
 I'm a Web Developer by both passion and profession, at the same time, I am learning new things everyday and am a forever learner. I am passionate about solving problems and building things from the ground up. I'm currently also pursuing my Computer Science degree alongside working at Startups for learning and lots of fun.
 
