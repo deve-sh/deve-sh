@@ -10,3 +10,4 @@ I'm currently working with the MERN Stack and occasionally with Firebase as well
 
 - [My Portfolio Website](https://deve-sh.github.io)
 - [My LinkedIn Profile](https://www.linkedin.com/in/dev-esh/)
+- [Contact me on Email](mailto:contact@devesh.tech) 📨
