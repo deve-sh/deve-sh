@@ -4,10 +4,18 @@
 
 I'm a Software Engineer by both passion and profession. I am passionate about solving problems, architecting solutions and building things from the ground up. I work with various startups for lots of learning and lots of fun.
 
-My expertise includes React alongside the entire MERN Stack. I am also an expert in Firebase and proficient in Flask, MySQL, PostgreSQL and PHP. I am currently woking on building skillsets around Cloud Computing on various Cloud Providers such as Google Cloud Platform and Amazon Web Services.
+## Skills
+
+| Domain                 |    Skills   |
+| :----:                 | ----------- |
+| Languages              | JavaScript, Python, C, C++, Java, SQL, HTML, CSS, PHP |
+| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Jest, Enzyme |
+| Databases              | MongoDB, Firebase, PostgreSQL, MySQL |
+| Tools                  | Git, Agile Development, Scrum |
 
 ## Find Me Around
 
+- [My Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
 - [My Portfolio Website](https://devesh.tech) 🌐
 - [My LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
 - [Contact me on Email](mailto:contact@devesh.tech) 📨
