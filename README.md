@@ -8,8 +8,9 @@ I'm a Software Engineer by both passion and profession. I am passionate about so
 
 | Domain                 |    Skills   |
 | :----:                 | ----------- |
-| Languages              | JavaScript, Python, C, C++, Java, SQL, HTML, CSS, PHP |
-| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Jest, Enzyme, Flask, GraphQL |
+| Languages              | JavaScript, TypeScript, Python, C, C++, Java, SQL, HTML, CSS, PHP |
+| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Flask, GraphQL |
+| Testing                | Jest, Enzyme, React Testing Library, Cypress |
 | Databases              | MongoDB, Firestore, PostgreSQL, MySQL |
 | Tools and Platforms    | Git, Agile Development, Scrum, Firebase, Hasura, GCP, AWS |
 
