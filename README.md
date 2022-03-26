@@ -19,6 +19,6 @@ I'm a Software Engineer by both passion and profession. I am passionate about so
 
 - [My Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
 - [My Portfolio Website](https://devesh.tech) 🌐
-- [My Blog](https://blog.devesh.tech)
+- [My Blog](https://blog.devesh.tech) 📔
 - [My LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
 - [Contact me on Email](mailto:contact@devesh.tech) 📨
