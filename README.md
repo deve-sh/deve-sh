@@ -9,14 +9,16 @@ I'm a Software Engineer by both passion and profession. I am passionate about so
 | Domain                 |    Skills   |
 | :----:                 | ----------- |
 | Languages              | JavaScript, TypeScript, Python, C, C++, Java, SQL, HTML, CSS, PHP |
-| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Flask, GraphQL |
+| Libraries/Frameworks   | React, Next.js, Remix, Gatsby, Node.js, Express, Svelte, Vue, Flask, GraphQL |
 | Databases              | MongoDB, Firestore, PostgreSQL, MySQL |
 | Testing                | Jest, Enzyme, React Testing Library, Cypress |
-| Tools and Platforms    | Git, Agile Development, Scrum, Firebase, Hasura, GCP, AWS |
+| Platforms              | Firebase, GCP, AWS, Hasura |
+| Tools & Methodologies  | Git, Agile Development, Scrum |
 
 ## Find Me Around
 
 - [My Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
 - [My Portfolio Website](https://devesh.tech) 🌐
+- [My Blog](https://blog.devesh.tech)
 - [My LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
 - [Contact me on Email](mailto:contact@devesh.tech) 📨
