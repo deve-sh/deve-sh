@@ -2,7 +2,9 @@
 
 ![About Me](https://github.com/deve-sh/deve-sh/raw/master/Intro.jpg)
 
-I'm a Software Engineer by both passion and profession. I am passionate about solving problems, architecting solutions and building things from the ground up. I work with various startups for lots of learning and lots of fun.
+I am a Full Stack Software Engineer, by both passion and profession. I build web apps and architect systems. I reverse engineer tools I use day to day and write scripts that make everyone's life easy.
+
+Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech), documenting my learnings or reading something interesting (I have more books than I could possibly read). If you can't find me doing any of the above, I'll probably be outside on a drive.
 
 ## Skills
 
@@ -17,8 +19,8 @@ I'm a Software Engineer by both passion and profession. I am passionate about so
 
 ## Find Me Around
 
-- [My Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
-- [My Portfolio Website](https://devesh.tech) 🌐
-- [My Blog](https://blog.devesh.tech) 📔
-- [My LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
-- [Contact me on Email](mailto:contact@devesh.tech) 📨
+- [Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
+- [Portfolio Website](https://devesh.tech) 🌐
+- [Blog](https://blog.devesh.tech) 📔
+- [LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
+- [Contact me on mail](mailto:contact@devesh.tech) 📨
