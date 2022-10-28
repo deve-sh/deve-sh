@@ -11,7 +11,7 @@ Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech
 | Domain                 |    Skills   |
 | :----:                 | ----------- |
 | Languages              | JavaScript, TypeScript, Python, C, C++, Java, SQL, HTML, CSS, PHP |
-| Libraries/Frameworks   | React, Next.js, Remix, Gatsby, Node.js, Express, Svelte, Vue, Flask, GraphQL |
+| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Cypress, Jest, React Testing Library, Enzyme, GraphQL |
 | Databases              | MongoDB, Firestore, PostgreSQL, MySQL |
 | Testing                | Jest, Enzyme, React Testing Library, Cypress |
 | Platforms              | Firebase, GCP, AWS, Hasura |
