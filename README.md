@@ -14,8 +14,8 @@ Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech
 | Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Tailwind, SASS, GraphQL |
 | Databases              | MongoDB, Firestore, PostgreSQL, MySQL |
 | Testing                | Jest, Enzyme, React Testing Library, Cypress, Playwright |
-| Platforms              | Firebase, Supabase, GCP, AWS, Hasura |
-| Tooling  | Git, Turbo, Nx, Vite |
+| Platforms              | Firebase, Google Cloud Platform, AWS, Hasura, Supabase |
+| Tooling  | Git, Docker, Turbo, Nx, Vite |
 
 ## Find Me Around
 
