@@ -19,7 +19,7 @@ Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech
 
 ## Find Me Around
 
-- [Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view?usp=sharing) 🗄
+- [Resume](https://drive.google.com/file/d/16OkqANJ-37oyEaRWFukzBtX8z8h4DBvN/view) 🗄
 - [Portfolio Website](https://devesh.tech) 🌐
 - [Blog](https://blog.devesh.tech) 📔
 - [LinkedIn Profile](https://www.linkedin.com/in/dev-esh/) 🤝
