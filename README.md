@@ -13,9 +13,9 @@ Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech
 | New World Skillsets  | Agentic Workflows creation & integration, AI Agent Building, AI Engineering                        |
 |      Languages       | JavaScript, TypeScript, Python, C, C++, SQL, HTML, CSS, PHP                                        |
 | Libraries/Frameworks | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Tailwind, SASS, GraphQL                     |
-|      Databases       | MongoDB, Firestore, PostgreSQL, MySQL                                                              |
+|      Databases       | MongoDB, Firestore, PostgreSQL, MySQL, PocketBase, Redis                                           |
 |       Testing        | Vitest, Playwright, Chrome CDP based agentic testing, Jest, Enzyme, React Testing Library, Cypress |
-|      Platforms       | Firebase, Google Cloud Platform, AWS, Hasura, Supabase                                             |
+|      Platforms       | Firebase, Google Cloud Platform, AWS, Hasura, Supabase, Micro-frontends                            |
 |   Tooling & DevOps   | Git, Turbo, Nx, Vite, Docker, GitHub Actions, Kubernetes                                           |
 
 ## Find Me Around
