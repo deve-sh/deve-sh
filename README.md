@@ -1,6 +1,6 @@
 # Hey, Devesh here 👋
 
-![About Me](https://github.com/deve-sh/deve-sh/raw/master/Intro.jpg)
+![About Me](https://github.com/deve-sh/deve-sh/raw/master/Intro.png)
 
 I'm a Software Engineer by both passion and profession. I solve problems, architect systems and build things from the ground up. I reverse engineer tools I use everyday and write open source libraries that make everyone's life easy.
 
