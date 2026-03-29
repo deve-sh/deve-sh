@@ -2,20 +2,21 @@
 
 ![About Me](https://github.com/deve-sh/deve-sh/raw/master/Intro.jpg)
 
-I am a Full Stack Software Engineer, by both passion and profession. I build web apps and architect systems. I reverse engineer tools I use day to day and write scripts that make everyone's life easy.
+I'm a Software Engineer by both passion and profession. I solve problems, architect systems and build things from the ground up. I reverse engineer tools I use everyday and write open source libraries that make everyone's life easy.
 
-Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech), documenting my learnings or reading something interesting (I have more books than I could possibly read). If you can't find me doing any of the above, I'll probably be outside on a drive.
+Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech), documenting my learnings or reading something interesting (I have more books than I could possibly read). If you can't find me doing any of the above, I'll probably be outside travelling.
 
 ## Skills
 
-| Domain                 |    Skills   |
-| :----:                 | ----------- |
-| Languages              | JavaScript, TypeScript, Python, C, C++, SQL, HTML, CSS, PHP |
-| Libraries/Frameworks   | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Tailwind, SASS, GraphQL |
-| Databases              | MongoDB, Firestore, PostgreSQL, MySQL |
-| Testing                | Jest, Enzyme, React Testing Library, Cypress, Playwright |
-| Platforms              | Firebase, Google Cloud Platform, AWS, Hasura, Supabase |
-| Tooling  | Git, Docker, Turbo, Nx, Vite |
+|        Domain        | Skills                                                                                             |
+| :------------------: | -------------------------------------------------------------------------------------------------- |
+| New World Skillsets  | Agentic Workflows creation & integration, AI Agent Building, AI Engineering                        |
+|      Languages       | JavaScript, TypeScript, Python, C, C++, SQL, HTML, CSS, PHP                                        |
+| Libraries/Frameworks | React, Next.js, Gatsby, Node.js, Express, Svelte, Vue, Tailwind, SASS, GraphQL                     |
+|      Databases       | MongoDB, Firestore, PostgreSQL, MySQL                                                              |
+|       Testing        | Vitest, Playwright, Chrome CDP based agentic testing, Jest, Enzyme, React Testing Library, Cypress |
+|      Platforms       | Firebase, Google Cloud Platform, AWS, Hasura, Supabase                                             |
+|   Tooling & DevOps   | Git, Turbo, Nx, Vite, Docker, GitHub Actions, Kubernetes                                           |
 
 ## Find Me Around
 
